@@ -1,6 +1,12 @@
+# Archivos compilados
+build/
+*.o
+*.out
 
-solutions/
+# Ejecutables
+bin/
 
-**/build/
-**/bin/
-**/out/
+# Archivos del editor
+.vscode/
+*.swp
+*~
