@@ -10,3 +10,7 @@ bin/
 .vscode/
 *.swp
 *~
+
+
+solutions/
+src/dummy.c
